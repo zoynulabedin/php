@@ -41,10 +41,10 @@
 + - * / $ = arithmatic operator
 += -= 
 */
-$a = 7;
-$x = $y = $a;
+// $a = 7;
+// $x = $y = $a;
 
-echo $x,"\n",$y;
+// echo $x,"\n",$y;
 // $x =$y=5;
 
 // echo $x,"\n",$y;
