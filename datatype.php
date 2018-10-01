@@ -52,3 +52,12 @@
 // $name = $otherName = "fullname";
 
 // echo $name,"\n",$otherName;
+
+//leap year condtions
+// $year = 2012;
+
+// if($year % 4==0 &&($year%100 || $year % 400)){
+//   echo "{$year} is a leap year";
+// }else{
+//   echo "{$year} is not leap year";
+// }
