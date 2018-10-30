@@ -154,3 +154,22 @@
 // $result = ($n%2==0) ? "A" : ($n%2==1 ? "B" : "C");
 
 // echo $result;
+// for($i=0; $i<=10; $i++){
+
+//   echo PHP_EOL;
+
+//   for($j=0; $j<$i; $j++){
+//     echo "*";
+//   }
+// }
+// $i = 2;
+// while($i<=20){
+//   echo $i++;
+//   echo "\n";
+  
+// }
+// $i=0;
+// do{
+// echo $i++;
+// echo "\n";
+// }while($i<10);
