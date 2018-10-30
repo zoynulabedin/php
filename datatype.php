@@ -62,3 +62,59 @@
 //   echo "{$year} is not leap year";
 // }
 
+// ternary operator 
+// $n = 13;
+// if(12==$n){
+//   echo "this is twelve";
+// }else if(10==$n){
+//   echo "this is ten";
+// }else{
+//   echo "this is number";
+// }
+// echo "\n";
+
+// $numberInworld = 12==$n ? "Hello world" : "Hello pabna";
+
+// echo $numberInworld;
+
+// echo "\n";
+
+// if($n%2==0){
+//   echo "even number";
+// }else{
+//   echo "odd Number";
+// }
+// echo "\n";
+// $number = $n%2==0 ? "even number" : "odd Number";
+
+// echo $number;
+
+// $n = 13;
+
+// $r = $n%2;
+
+// switch($r){
+//   case 0:
+//   echo "{$n} even number";
+//   break;
+//   default:
+//   echo "{$n} is odd number";
+// }
+// echo "\n";
+
+// $color = 'blue';
+
+// switch($color){
+//   case 'red':
+//   echo ucwords ($color).' is my favorite color';
+//   break;
+
+// case 'green';
+// echo ucwords ($color).' is my Most favorite color';
+// break;
+// case 'blue':
+// echo ucwords ($color).' is my not favorite color';
+// break;
+// default:
+// echo "it is a simple color";
+// }
