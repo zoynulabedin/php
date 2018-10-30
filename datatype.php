@@ -118,3 +118,24 @@
 // default:
 // echo "it is a simple color";
 // }
+
+// $n = -4;
+
+// $r = $n%2;
+
+// switch(true){
+//   case (0==$r && 0<$r):
+//   echo "{$n} is positive even number";
+//   break;
+//   case(1==$r && 0<$r):
+//   echo "{$n} is positive odd number";
+//   break;
+//   case(0==$r && $r<0):
+//   echo "$n is negetive even number";
+//   break;
+//   case (-1==$r && 0>$r):
+//   echo "$n is negetive odd number";
+//   break;
+//   default:
+//   echo "$n is  number";
+// }
