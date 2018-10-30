@@ -139,3 +139,18 @@
 //   default:
 //   echo "$n is  number";
 // }
+
+
+// $n = false || true;
+
+// $f = false or true;
+
+
+// var_dump($n,$f);
+
+
+// $n = -1;
+
+// $result = ($n%2==0) ? "A" : ($n%2==1 ? "B" : "C");
+
+// echo $result;
